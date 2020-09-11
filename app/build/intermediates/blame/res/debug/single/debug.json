@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_warning_24.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\ic_baseline_warning_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_window_response.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\dialog_window_response.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_cancel_24.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\ic_baseline_cancel_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_launch.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_window_submit.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\dialog_window_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_button.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\round_corner_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_submit_button_round_white.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\submit_button_round_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_form_round_corner.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\form_round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_submit_button_round_orange.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\submit_button_round_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_learning.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\fragment_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submit.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\activity_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_circle_24.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skill_iq_trimmed.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\skill_iq_trimmed.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_learner.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\top_learner.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_page.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\layout\\activity_splash_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gads.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\gads.png"
+    },
+    {
+        "merged": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gads_image.png.flat",
+        "source": "C:\\Users\\RICHARD\\AndroidStudioProjects\\GadsLeaderboard\\app\\src\\main\\res\\drawable\\gads_image.png"
+    }
+]

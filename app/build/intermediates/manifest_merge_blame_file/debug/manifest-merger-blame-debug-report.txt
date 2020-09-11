@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.gadsleaderboard"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:7:5-68
+13-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:7:22-65
+14
+15    <application
+15-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:9:5-28:19
+16        android:allowBackup="true"
+16-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.3.1] C:\Users\RICHARD\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:12:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme.NoActionBar" >
+25-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:15:9-52
+26        <activity
+26-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:16:9-24:20
+27            android:name="com.richymd.gadsleaderboard.SplashScreen"
+27-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:17:13-68
+28            android:label="@string/app_name" >
+28-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:18:13-45
+29            <intent-filter>
+29-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:20:17-69
+30-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:22:17-77
+32-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.richymd.gadsleaderboard.SubmitActivity" />
+35-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:25:9-79
+35-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:25:19-76
+36        <activity android:name="com.richymd.gadsleaderboard.MainActivity" />
+36-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:26:9-77
+36-->C:\Users\RICHARD\AndroidStudioProjects\GadsLeaderboard\app\src\main\AndroidManifest.xml:26:19-74
+37    </application>
+38
+39</manifest>
